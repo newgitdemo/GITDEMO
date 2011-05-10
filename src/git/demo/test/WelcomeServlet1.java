@@ -1,4 +1,4 @@
-package git.demo;
+package git.demo.test;
 
 import java.io.IOException;
 

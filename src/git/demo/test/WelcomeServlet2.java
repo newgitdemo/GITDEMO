@@ -1,4 +1,4 @@
-package git.demo;
+package git.demo.test;
 
 import java.io.IOException;
 
@@ -11,13 +11,13 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class WelcomeServlet
  */
-public class WelcomeServlet1 extends HttpServlet {
+public class WelcomeServlet2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public WelcomeServlet1() {
+    public WelcomeServlet2() {
         super();
         // TODO Auto-generated constructor stub
     }
@@ -53,7 +53,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-		String destination = "/jsp/resulta1.jsp";
+		String destination = "/jsp/resulta.jsp";
                  
 		try{
 
