@@ -45,6 +45,8 @@ public class CopyOfWelcomeServlet extends HttpServlet {
 		*/
 		response.setContentType("text/html");
 		response.setContentType("text/html");
+                response.setContentType("text/html");
+		response.setContentType("text/html");
 		 
 		 
 		/*
