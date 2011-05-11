@@ -70,11 +70,6 @@ public class WelcomeServlet extends HttpServlet {
 		System.out.println(name);
 		
 	}
-/**
-	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
-	 */
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-	}
+
 
 }
