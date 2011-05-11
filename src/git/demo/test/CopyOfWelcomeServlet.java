@@ -54,6 +54,7 @@ public class CopyOfWelcomeServlet extends HttpServlet {
 		 */
 		System.out.println(name);
 		String destination = "/jsp/resulta.jsp";
+		String destination1 = "/jsp/resulta.jsp";
                  
 		try{
 
